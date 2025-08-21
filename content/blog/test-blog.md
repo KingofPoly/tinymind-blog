@@ -3,14 +3,13 @@ title: test blog
 date: 2025-08-11T13:50:26.638Z
 ---
 
-<a href="https://tinymind.me/">
-  <img src="https://raw.githubusercontent.com/mazzzystar/tinymind/main/public/Tinymind-banner.png" alt="Tinymind Blog Banner">
-</a>
+![image.png](https://raw.githubusercontent.com/KingofPoly/tinymind-blog/main/assets/images/2025-08-21/1755785139648.png)
+
 
 Turn your GitHub into a blog & memo data storage place with one-click Sign in. No server needed - every input automatically syncs to your GitHub repository.
 https://tinymind.me
 
-https://github.com/user-attachments/assets/4c9f590e-dd1e-4e9f-95a0-45b236752494
+
 
 ## Demo Page
 [tinymind.me/mazzzystar](https://tinymind.me/mazzzystar)
